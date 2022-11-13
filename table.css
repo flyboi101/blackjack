@@ -1,0 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+}
+section >ol:hover{
+    font-size: 50px;
+    background-color: antiquewhite;
+
+}
+
+section ul>dt{
+   
+    list-style: circle;
+}
